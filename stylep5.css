@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 40px;
+}
+
+#kotak {
+  width: 150px;
+  height: 150px;
+  background-color: lightblue;
+  margin: 20px auto;
+  line-height: 150px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
